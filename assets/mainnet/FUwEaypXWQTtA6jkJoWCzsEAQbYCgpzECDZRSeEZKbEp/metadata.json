@@ -1,0 +1,13 @@
+{
+  "name": "ASHEO",
+  "symbol": "ASHEO",
+  "description": "ASHEO Token on Solana",
+  "image": "https://ipfs.io/ipfs/QmXzVc89Kf1fDb2HNGLgMEJhURqW8nBMXdgU5Y9HLiSfEK",
+  "extensions": {
+    "website": "https://asheo.io",
+    "twitter": "https://twitter.com/ASHEO_ASH",
+    "telegram": "https://t.me/ASHEO_ASH",
+    "telegram_news": "https://t.me/ASHEOOFFICIAL"
+  },
+  "decimals": 6
+}
